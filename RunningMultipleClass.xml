@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<suite parallel="false" name="Suite"-->
+<suite name="TestSuite" thread-count="4" parallel="Classes">
+  <test name="Test">
+    <classes>
+      <class name="pk_OrangeHRM.HeadLess_Chrome"/>
+<class name="pk_OrangeHRM.Drag_DropEX"/>
+<class name="pk_SmartBear.SmartBear_Login_Logout"/>
+
+
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
